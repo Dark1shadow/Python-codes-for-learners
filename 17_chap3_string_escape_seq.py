@@ -1,0 +1,2 @@
+stroy=  "Once, there was a boy who became bored when he watched over\n the village sheep grazing on the hillside.\n To entertain himself, he sang out, “Wolf! Wolf! T\nhe wolf is chasing the shee"
+print(stroy)

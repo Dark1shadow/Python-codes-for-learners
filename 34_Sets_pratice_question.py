@@ -1,0 +1,11 @@
+num1 = input("Enter first number\n")
+num2 = input("Enter second number\n")
+num3 = input("Enter third number\n")
+num4 = input("Enter fourth number\n")
+num5 = input("Enter fifth number\n")
+num6 = input("Enter sixth number\n")
+num7 = input("Enter seventh number\n")
+num8 = input("Enter eighth number\n")
+set = {num1, num2, num3, num4, num5, num6, num7, num8 }
+print(set)
+print(type(set))
